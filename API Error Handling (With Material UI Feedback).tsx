@@ -1,3 +1,4 @@
+//corrected code
 // src/api/fetchData.ts
 import axios from 'axios';
 import { enqueueSnackbar } from 'notistack';
