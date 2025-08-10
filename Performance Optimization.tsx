@@ -1,3 +1,4 @@
+//corrected code
 // src/components/OptimizedList.tsx
 import React, { useCallback } from 'react';
 import { List, ListItem, Typography } from '@mui/material';
