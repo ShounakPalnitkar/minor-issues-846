@@ -1,3 +1,4 @@
+//Corrected Code
 // src/App.tsx
 import { ThemeProvider, CssBaseline } from '@mui/material';
 import theme from './theme';
